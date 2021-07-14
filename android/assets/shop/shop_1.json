@@ -1,0 +1,132 @@
+{
+  "com.badlogic.gdx.graphics.Color": {
+    "green": {
+      "a": 1,
+      "b": 0,
+      "g": 1,
+      "r": 0
+    },
+    "white": {
+      "a": 1,
+      "b": 1,
+      "g": 1,
+      "r": 1
+    },
+    "red": {
+      "a": 1,
+      "b": 0,
+      "g": 0,
+      "r": 1
+    },
+    "black": {
+      "a": 1,
+      "b": 0,
+      "g": 0,
+      "r": 0
+    },
+    "gray": {
+      "a": 1,
+      "b": 0.5,
+      "g": 0.5,
+      "r": 0.5
+    },
+    "yellow": {
+      "a": 1,
+      "b": 0,
+      "g": 225,
+      "r": 221
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle": {
+    "a": {
+      "imageUp": "a3",
+      "imageDown": "a4",
+      "imageChecked": "a4"
+    },
+    "b": {
+      "imageUp": "b3",
+      "imageDown": "b4",
+      "imageChecked": "b4"
+    },
+    "c": {
+      "imageUp": "c3",
+      "imageDown": "c4",
+      "imageChecked": "c4"
+    },
+    "d": {
+      "imageUp": "d3",
+      "imageDown": "d4",
+      "imageChecked": "d4"
+    },
+    "e": {
+      "imageUp": "e3",
+      "imageDown": "e4",
+      "imageChecked": "e4"
+    },
+    "f": {
+      "imageUp": "f3",
+      "imageDown": "f4",
+      "imageChecked": "f4"
+    },
+    "g": {
+      "imageUp": "g3",
+      "imageDown": "g4",
+      "imageChecked": "g4"
+    },
+    "h": {
+      "imageUp": "h3",
+      "imageDown": "h4",
+      "imageChecked": "h4"
+    },
+    "i": {
+      "imageUp": "i3",
+      "imageDown": "i4",
+      "imageChecked": "i4"
+    },
+    "j": {
+      "imageUp": "j3",
+      "imageDown": "j4",
+      "imageChecked": "j4"
+    },
+    "k": {
+      "imageUp": "k3",
+      "imageDown": "k4",
+      "imageChecked": "k4"
+    },
+    "l": {
+      "imageUp": "l3",
+      "imageDown": "l4",
+      "imageChecked": "l4"
+    },
+    "m": {
+      "imageUp": "m3",
+      "imageDown": "m4",
+      "imageChecked": "m4"
+    },
+    "n": {
+      "imageUp": "n3",
+      "imageDown": "n4",
+      "imageChecked": "n4"
+    },
+    "o": {
+      "imageUp": "o3",
+      "imageDown": "o4",
+      "imageChecked": "o4"
+    },
+    "p": {
+      "imageUp": "p3",
+      "imageDown": "p4",
+      "imageChecked": "p4"
+    },
+    "q": {
+      "imageUp": "q3",
+      "imageDown": "q4",
+      "imageChecked": "q4"
+    },
+    "r": {
+      "imageUp": "r3",
+      "imageDown": "r4",
+      "imageChecked": "r4"
+    }
+  }
+}

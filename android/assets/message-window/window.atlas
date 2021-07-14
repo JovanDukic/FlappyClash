@@ -1,0 +1,34 @@
+
+window.png
+size: 678,216
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+message-label
+  rotate: false
+  xy: 354, 120
+  size: 322, 94
+  orig: 322, 94
+  offset: 0, 0
+  index: -1
+message-window
+  rotate: false
+  xy: 2, 2
+  size: 350, 212
+  orig: 350, 212
+  offset: 0, 0
+  index: -1
+ok-down
+  rotate: false
+  xy: 354, 14
+  size: 157, 104
+  orig: 157, 104
+  offset: 0, 0
+  index: -1
+ok-up
+  rotate: false
+  xy: 513, 14
+  size: 157, 104
+  orig: 157, 104
+  offset: 0, 0
+  index: -1
